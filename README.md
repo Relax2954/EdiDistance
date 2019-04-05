@@ -1,4 +1,4 @@
-# EdiDistance
+# EditDistance
 Finding edit distance using Dynamic Programming(Wagner–Fischer algorithm)
 
 Compile: javac Main.java
